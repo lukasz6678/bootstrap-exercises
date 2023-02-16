@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboty/static/css/main.900b98ca.css",
+    "main.js": "/roboty/static/js/main.c31786f2.js",
+    "static/js/787.9a153c0d.chunk.js": "/roboty/static/js/787.9a153c0d.chunk.js",
+    "index.html": "/roboty/index.html",
+    "main.900b98ca.css.map": "/roboty/static/css/main.900b98ca.css.map",
+    "main.c31786f2.js.map": "/roboty/static/js/main.c31786f2.js.map",
+    "787.9a153c0d.chunk.js.map": "/roboty/static/js/787.9a153c0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900b98ca.css",
+    "static/js/main.c31786f2.js"
+  ]
+}
